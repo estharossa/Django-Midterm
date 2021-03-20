@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca6842b9-3a0a-481c-8362-35e069174cdb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/957a74be-ba19-4354-8c59-0e5ce33f9e80.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/957a74be-ba19-4354-8c59-0e5ce33f9e80/storage_v2/_src_/database/mid_db.1cX2vw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/957a74be-ba19-4354-8c59-0e5ce33f9e80/storage_v2/_src_/database/mid_db.1cX2vw/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/957a74be-ba19-4354-8c59-0e5ce33f9e80/storage_v2/_src_/database/mid_db.1cX2vw/schema/information_schema.FNRwLQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/957a74be-ba19-4354-8c59-0e5ce33f9e80/storage_v2/_src_/database/mid_db.1cX2vw/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/957a74be-ba19-4354-8c59-0e5ce33f9e80/storage_v2/_src_/database/mid_db.1cX2vw/schema/pg_catalog.0S1ZNQ.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/957a74be-ba19-4354-8c59-0e5ce33f9e80/storage_v2/_src_/database/mid_db.1cX2vw/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/957a74be-ba19-4354-8c59-0e5ce33f9e80/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/957a74be-ba19-4354-8c59-0e5ce33f9e80/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/957a74be-ba19-4354-8c59-0e5ce33f9e80/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/957a74be-ba19-4354-8c59-0e5ce33f9e80/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/midterm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth_/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/midterm/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/migrations/0002_auto_20210320_0503.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/migrations/0003_book_journal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/constants.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1q0Pwh4eQ1RPiSUcQ6yeyRql8L1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/auth_" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/auth_" />
+      <recent name="$PROJECT_DIR$/auth" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="midterm" type="Python.DjangoServer" factoryName="Django server">
+      <module name="midterm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="midterm.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca6842b9-3a0a-481c-8362-35e069174cdb" name="Default Changelist" comment="" />
+      <created>1616213774523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616213774523</updated>
+      <workItem from="1616213775641" duration="476000" />
+      <workItem from="1616214385096" duration="7301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
